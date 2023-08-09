@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my masters**
 
-- 🌱 I’m currently learning **API REST**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **anything and everything**
 
