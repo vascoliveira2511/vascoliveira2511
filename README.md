@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasco Oliveira</h1>
-<h3 align="center">A passionate informatics engineer from Portugal</h3>
+<h3 align="center">A passionate computer engineer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vascoliveira2511&label=Profile%20views&color=0e75b6&style=flat" alt="vascoliveira2511" /> </p>
 
