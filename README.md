@@ -18,7 +18,7 @@ I'm a **Computer Engineer** specializing in **Internet Engineering, Cryptography
 
 ## 💼 Experience
 
-### Programmer | DigitalSign | Sep 2023 - Present
+### Programmer | DigitalSign | Sep 2024 - Present
 - Developed and maintained software applications using **React** and **Spring Boot**, ensuring functionality and reliability across systems.
 - Collaborated with teams to design, implement, and optimize both backend and frontend components.
 - Troubleshot and resolved technical issues, improving system performance and user experience.
