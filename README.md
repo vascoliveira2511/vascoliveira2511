@@ -7,8 +7,8 @@ I'm a **Computer Engineer** specializing in **Internet Engineering, Cryptography
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Java, Python, C, C++, Haskell, HTML/CSS, JavaScript
-- **Libraries**: **React**
-- **Frameworks**: **Spring Boot**, SvelteKit, Kubernetes
+- **Libraries**: React
+- **Frameworks**: Spring Boot, SvelteKit, Kubernetes
 - **Security**: Firewalls, VPNs, Intrusion Detection/Prevention Systems (IDS/IPS)
 - **Networking**: VoIP, Session Border Controllers (SBC), Network Protocols
 - **Cloud**: Google Firebase, Vertex AI
