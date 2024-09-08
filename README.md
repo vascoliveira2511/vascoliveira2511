@@ -1,15 +1,17 @@
 # 👋 Hi, I'm Vasco Oliveira
 
-I'm a **Computer Engineer** specializing in **Internet Engineering, Cryptography, and Information Security**. My passion lies in solving complex problems through innovative technological solutions. With a strong background in full-stack development and network security, I thrive in collaborative environments where I can leverage my analytical and troubleshooting skills.
+I'm a **Computer Engineer** specializing in **Internet Engineering, Cryptography, and Information Security**. My passion lies in solving complex problems through innovative technological solutions. With a strong background in full-stack development, network security, and expertise in **React** (a JavaScript library) and **Spring Boot**, I thrive in collaborative environments where I can leverage my analytical and troubleshooting skills.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Java, Python, C, C++, Haskell, HTML/CSS, JavaScript
-- **Frameworks**: SvelteKit, Kubernetes, Google Firebase, Vertex AI
+- **Libraries**: **React**
+- **Frameworks**: **Spring Boot**, SvelteKit, Kubernetes
 - **Security**: Firewalls, VPNs, Intrusion Detection/Prevention Systems (IDS/IPS)
 - **Networking**: VoIP, Session Border Controllers (SBC), Network Protocols
+- **Cloud**: Google Firebase, Vertex AI
 - **Operating Systems**: Linux, Windows
 
 ---
@@ -17,7 +19,7 @@ I'm a **Computer Engineer** specializing in **Internet Engineering, Cryptography
 ## 💼 Experience
 
 ### Programmer | DigitalSign | Sep 2023 - Present
-- Developed and maintained software applications, ensuring functionality and reliability across systems.
+- Developed and maintained software applications using **React** and **Spring Boot**, ensuring functionality and reliability across systems.
 - Collaborated with teams to design, implement, and optimize both backend and frontend components.
 - Troubleshot and resolved technical issues, improving system performance and user experience.
 
