@@ -1,31 +1,52 @@
-<h1 align="center">Hi 👋, I'm Vasco Oliveira</h1>
-<h3 align="center">A passionate computer engineer from Portugal</h3>
+# 👋 Hi, I'm Vasco Oliveira
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vascoliveira2511&label=Profile%20views&color=0e75b6&style=flat" alt="vascoliveira2511" /> </p>
+I'm a **Computer Engineer** specializing in **Internet Engineering, Cryptography, and Information Security**. My passion lies in solving complex problems through innovative technological solutions. With a strong background in full-stack development and network security, I thrive in collaborative environments where I can leverage my analytical and troubleshooting skills.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vascoliveira2511" alt="vascoliveira2511" /></a> </p>
+---
 
-- 🔭 I’m currently working on **my masters**
+## 🛠️ Technologies & Tools
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- **Languages**: Java, Python, C, C++, Haskell, HTML/CSS, JavaScript
+- **Frameworks**: SvelteKit, Kubernetes, Google Firebase, Vertex AI
+- **Security**: Firewalls, VPNs, Intrusion Detection/Prevention Systems (IDS/IPS)
+- **Networking**: VoIP, Session Border Controllers (SBC), Network Protocols
+- **Operating Systems**: Linux, Windows
 
-- 👯 I’m looking to collaborate on **anything and everything**
+---
 
-- 💬 Ask me about **anything and everything**
+## 💼 Experience
 
-- 📫 How to reach me **vascoliveira2511@gmail.com**
+### Programmer | DigitalSign | Sep 2023 - Present
+- Developed and maintained software applications, ensuring functionality and reliability across systems.
+- Collaborated with teams to design, implement, and optimize both backend and frontend components.
+- Troubleshot and resolved technical issues, improving system performance and user experience.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vasco-oliveira-707a71198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasco oliveira" height="30" width="40" /></a>
-</p>
+### Full Stack Developer | Accenture | Sep 2023 - Jan 2024
+- Led the **GenAI AssessBot** project, automating technical assessments in IT recruitment using GenAI technologies.
+- Developed a business case, conducted market research, and refined app features for optimal UX/UI.
+- Gained expertise in **SvelteKit**, **Google Firebase**, and **Vertex AI**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+### Trainee | Altice Labs | Oct 2023 - July 2023
+- Integrated **ABC Unified Communications (VoIP)** with **Microsoft Teams**, using Kubernetes and cloud-based solutions.
+- Configured **Session Border Controllers (SBC)** to ensure secure VoIP communication.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vascoliveira2511&show_icons=true&locale=en&layout=compact" alt="vascoliveira2511" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vascoliveira2511&show_icons=true&locale=en" alt="vascoliveira2511" /></p>
+## 🎓 Education
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vascoliveira2511&" alt="vascoliveira2511" /></p>
+- **Universidade do Minho** (2019-2024)
+  - Master’s in Computer Engineering (Average Grade: 17/20)
 
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vascoliveira2511&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+
+- **Email**: vascoliveira2511@gmail.com
+- **LinkedIn**: [linkedin.com/in/vascoliveira2511](http://www.linkedin.com/in/vascoliveira2511)
+- **GitHub**: [github.com/vascoliveira2511](https://github.com/vascoliveira2511)
