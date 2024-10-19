@@ -41,9 +41,9 @@ I'm a **Computer Engineer** specializing in **Internet Engineering, Cryptography
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vascoliveira2511&show_icons=true&theme=radical)
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Bakeneko/30-nites-of-code)  
+  ![@Bakeneko #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Bakeneko)
 
 ---
 
