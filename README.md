@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vasco Oliveira
 
-I'm a **Computer Engineer** specializing in **Internet Engineering, Cryptography, and Information Security**. My passion lies in solving complex problems through innovative technological solutions. With a strong background in full-stack development, network security, and expertise in **React** (a JavaScript library) and **Spring Boot**, I thrive in collaborative environments where I can leverage my analytical and troubleshooting skills.
+I'm a **Computer Engineer** specializing in **Internet Engineering, Cryptography, and Information Security**. My passion lies in solving complex problems through innovative technological solutions. With a strong background in full-stack development, network security, and expertise in **React** (a JavaScript library) and **Spring Boot**.
 
 ---
 
